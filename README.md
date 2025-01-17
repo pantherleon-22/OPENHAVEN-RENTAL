@@ -33,16 +33,32 @@ Uygulama, çeşitli işlevleri kolayca erişilebilir hale getiren sade ve şık 
 
 ## Ekran Görüntüleri
 - *Giriş Ekranı*: Kullanıcı adı ve parola ile giriş yapılır.
-- *Ana Sayfa*: İlan ekleme butonu ve mevcut ilanlar.
-- *Müşteri Ekleme*: Müşteri bilgileri Firebase veritabanına kaydedilir.
+  
+![11](https://github.com/user-attachments/assets/a1aeaedc-49b0-478b-b215-832215c8f455)
+- *Ana Sayfa*: İlan ekleme butonu, arama butonu ve mevcut ilanlar bulunur.
+
+![22](https://github.com/user-attachments/assets/5e22a50e-04e8-49c3-b080-7f55add55990)
+![33](https://github.com/user-attachments/assets/1a874eba-a9e2-4d71-9e48-4e11631ab502)
+![44](https://github.com/user-attachments/assets/dd02cd29-b8dd-465e-8f09-393bbc86e545)
+![55](https://github.com/user-attachments/assets/a1f27307-e72e-436d-b964-8ac0b6ad223f)
+- *Drawer Menu*: Sayfa geçişleri için linkler bulunur.
+
+![00](https://github.com/user-attachments/assets/63131cb6-1da3-499a-9913-c76b804120bf)
 - *Yeni Ev Ekleme*: Yeni bir ev ilanı eklenebilir.
+
+![66](https://github.com/user-attachments/assets/adf7c394-b552-46ef-bd96-3ce3afbfefe2)
+- *Müşteri Ekleme*: Müşteri bilgileri Firebase veritabanına kaydedilir. Müşteri ekler, siler ve düzenleyebilirsiniz.
+
+![77](https://github.com/user-attachments/assets/5f3e10c5-dde9-48c4-82c2-cf2d39a9536f)
 - *Harita Sayfası*: Geliştiricinin konumu harita üzerinde gösterilir.
+  
+![88](https://github.com/user-attachments/assets/36801d0e-4fa4-4cef-9a16-b27e97c95acc)
 
 ## Veritabanı Yapısı
 - *Firebase Firestore*: Müşteri bilgileri Firebase Firestore veritabanında güvenli bir şekilde saklanır.
 
 ## Konum Özelliği
-Harita sayfası, sadece uygulama geliştiricisinin (yani sizin) konumunu gösterir. Bu özellik, geliştirici ile kullanıcı arasında iletişim kurmak amacıyla kullanılmaktadır.
+Harita sayfası, uygulama geliştiricisinin konumunu gösterir. Bu özellik, geliştirici ile kullanıcı arasında iletişim kurmak amacıyla kullanılmaktadır.
 
 ## Video
 Uygulamanın nasıl çalıştığını ve tüm işlevlerini anlatan videoya aşağıdaki YouTube linkinden ulaşabilirsiniz:
