@@ -62,7 +62,7 @@ Harita sayfası, uygulama geliştiricisinin konumunu gösterir. Bu özellik, gel
 
 ## Video
 Uygulamanın nasıl çalıştığını ve tüm işlevlerini anlatan videoya aşağıdaki YouTube linkinden ulaşabilirsiniz:
-[YouTube Linki]
+[[YouTube Linki]](https://www.youtube.com/shorts/n-ZLWBpN3Do)
 
 ## Ekip Üyeleri
 - *AHMET KUTAY ERGİN* - 132230057
