@@ -56,6 +56,7 @@ Uygulama, çeşitli işlevleri kolayca erişilebilir hale getiren sade ve şık 
 
 ## Veritabanı Yapısı
 - *Firebase Firestore*: Müşteri bilgileri Firebase Firestore veritabanında güvenli bir şekilde saklanır.
+- Kullanılan Firebase 30 günlük geçici bir veri tabanıdır firebase üzerinden gerekli ayarlamalar ile bu süre ayarlanabilmektedir
 
 ## Konum Özelliği
 Harita sayfası, uygulama geliştiricisinin konumunu gösterir. Bu özellik, geliştirici ile kullanıcı arasında iletişim kurmak amacıyla kullanılmaktadır.
