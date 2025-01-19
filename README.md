@@ -64,6 +64,10 @@ Harita sayfası, uygulama geliştiricisinin konumunu gösterir. Bu özellik, gel
 Uygulamanın nasıl çalıştığını ve tüm işlevlerini anlatan videoya aşağıdaki YouTube linkinden ulaşabilirsiniz:
 [[YouTube Linki]](https://www.youtube.com/shorts/n-ZLWBpN3Do)
 
+## Kodların Açıklanması
+https://youtu.be/tpT_dvXcOW4
+
+
 ## Ekip Üyeleri
 - *AHMET KUTAY ERGİN* - 132230057
 - *FATMANUR SENA BÜLBÜL* - 132230062
