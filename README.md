@@ -66,7 +66,7 @@ Uygulamanın nasıl çalıştığını ve tüm işlevlerini anlatan videoya aşa
 [[YouTube Linki]](https://www.youtube.com/shorts/n-ZLWBpN3Do)
 
 ## Kodların Açıklanması
-https://youtu.be/tpT_dvXcOW4
+https://youtube.com/shorts/72LATE7EdKM
 
 
 ## Ekip Üyeleri
